@@ -10,7 +10,7 @@ using ChabApp.Models;
 namespace ChabApp.Controllers
 {
     public class HomeController : Controller
-    {
+    {//cgelege
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
